@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PassTo</string>
+    <string name="hello">\
+    使い方：\n
+    ブラウザでページを開いて「ページの共有」からこのアプリを選ぶだけ。\n\n
+    この画面は特に使いません。\n
+    バックキーで戻ってくだし(・ω・)\n
+    \n
+    「ページの共有」を行ったのにブラウザ一覧が出てこない人は、普段使っているブラウザに「デフォルトでの起動」が設定されちゃっています。アプリケーション管理画面から設定を消去してね！
+    </string>
+    <string name="start_config_window">アプリ管理画面を起動</string>
+</resources>
